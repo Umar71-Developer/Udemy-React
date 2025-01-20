@@ -1,0 +1,1 @@
+# strat of react on main channel
